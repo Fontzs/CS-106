@@ -1,1 +1,1 @@
-C++
+CS106 series
